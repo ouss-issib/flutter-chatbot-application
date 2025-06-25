@@ -63,7 +63,7 @@ class LoginPage extends StatelessWidget {
                   onPressed: () {
                     String username = userNameController.text;
                     String passwd = passwordController.text;
-                    if (username == "oussamabi" && passwd == "123456") {
+                    if (username == "oussamabissi" && passwd == "123456") {
                       Navigator.pushNamed(context, "/bot"); // Go to the chatbot page after login
                     }
                   },
