@@ -35,8 +35,7 @@ Elle permet à un utilisateur de discuter en temps réel avec une IA conversatio
 
 - **Flutter** / **Dart**
 - **LLaMA 3.2** (API ou local)
-- **State management** avec `setState` (ou `provider` si intégré)
-- **Stockage local** (optionnel : SharedPreferences / Hive)
+- **State management** avec `setState`
 - **UI/UX** : Material Design, animations Flutter
 
 ---
@@ -85,9 +84,9 @@ Cette URL sera ensuite utilisée par le ChatBot pour envoyer des requêtes à l�
    flutter pub get
 
 3. **Lancer l'application** :
-   -Ouvrir dans Android Studio ou VS Code
-   -Lancer un émulateur ou brancher un smartphone Android
-   -Appuyer sur Run ou exécuter :
+   - Ouvrir dans Android Studio ou VS Code
+   - Lancer un émulateur ou brancher un smartphone Android
+   - Appuyer sur Run ou exécuter :
    ```bash
    flutter run
 
