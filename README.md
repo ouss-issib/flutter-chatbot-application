@@ -9,7 +9,7 @@ Elle permet à un utilisateur de discuter en temps réel avec une IA conversatio
 
 - 💬 Fournir une interface de chat responsive avec une IA (LLaMA 3.2)
 - 🔐 Authentifier l’utilisateur via un écran de connexion
-- ⚙️ Gérer les préférences utilisateur dans un écran de paramètres
+- ⚙️ Gérer Url de notre llama 3.2 pour chaque utilisateur 
 - 🎨 Offrir une expérience fluide et personnalisable via Flutter
 
 ---
