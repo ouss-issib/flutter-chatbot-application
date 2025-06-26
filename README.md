@@ -34,7 +34,7 @@ Elle permet à un utilisateur de discuter en temps réel avec une IA conversatio
 ## 🛠️ Technologies utilisées
 
 - **Flutter** / **Dart**
-- **LLaMA 3.2** (API ou local)
+- **LLaMA 3.2** (API)
 - **State management** avec `setState`
 - **UI/UX** : Material Design, animations Flutter
 
@@ -45,8 +45,6 @@ Elle permet à un utilisateur de discuter en temps réel avec une IA conversatio
 - 🔐 **Login sécurisé** (écran `login.page.dart`)
 - 💬 Interface de chat simple (`chatbot.page.dart`)
 - ⚙️ Page de paramètres (`settings.page.dart`)
-- 🌙 Thèmes personnalisables (mode sombre/clair, si activé)
-- 📄 Historique de conversation local (optionnel)
 
 ## ⏵ Guide d’utilisation
 
