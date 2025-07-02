@@ -21,13 +21,14 @@ Elle permet à un utilisateur de discuter en temps réel avec une IA conversatio
 ---
 
 ## 📂 Structure du projet Flutter
+```
 ├── lib/
 │ ├── main.dart # Point d'entrée de l'application
 │ ├── pages/
 │ │ ├── login.page.dart # Écran de connexion
 │ │ ├── chatbot.page.dart # Interface de chat IA
 │ │ └── settings.page.dart # Paramètres url dynamique
-
+```
 
 ---
 
